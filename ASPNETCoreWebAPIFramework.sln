@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCoreWebAPIFramework", "ASPNETCoreWebAPIFramework\ASPNETCoreWebAPIFramework.csproj", "{F521A6F1-F38C-42F8-9040-B44ADF1CE977}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E8C765A-D630-446F-A667-A01073F10CB7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F521A6F1-F38C-42F8-9040-B44ADF1CE977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F521A6F1-F38C-42F8-9040-B44ADF1CE977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F521A6F1-F38C-42F8-9040-B44ADF1CE977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F521A6F1-F38C-42F8-9040-B44ADF1CE977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD23D2A0-2238-4741-AA91-089A9AEDF171}
+	EndGlobalSection
+EndGlobal
